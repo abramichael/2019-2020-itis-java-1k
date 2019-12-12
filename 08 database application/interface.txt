@@ -1,0 +1,50 @@
+Hello
+
+>  добавлять, редактировать и удалять информацию о студентах
+
+> new student id=1 fio="" age=""
+
+
+> new student
+name=
+age=
+> new teacher
+
+> list student
+> list teacher
+
+> edit student 5
+Отредактировать:
+0: выход
+1: фамилия
+2: отчество
+3: город ...
+
+2
+отчество=
+
+> delete student 1
+yes/no
+
+> edit teacher 10
+
+> list skills
+> list interest
+> list subjects
+
+> new skill
+> new interest
+> new subject
+
+> add skill student 1
+0 - <exit>
+1 - java
+2 - football
+>2
+added
+
+> search student by skill
+
+> search teacher by skill
+
+> search user by skill
